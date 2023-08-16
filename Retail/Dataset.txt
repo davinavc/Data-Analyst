@@ -1,0 +1,9 @@
+order_id: ID of the order/transaction, one transaction can consist of several products but is carried out by only one customer
+order_date: the date of the transaction
+customer_id: ID of the buyer, it is possible that in one day, one customer makes multiple transactions
+city: the city where the transaction takes place
+province: province (based on city)
+product_id: ID of a purchased product
+brand: brand of the product. The same product definitely has the same brand
+quantity: quantity/amount of the purchased product
+item_price: Price of 1 product (in Indonesian Rupiah). The same product may have a different price when purchased.
