@@ -1,0 +1,10 @@
+1. 'Daily Time Spent on Site' : lama waktu user mengunjungi site (menit)
+2. 'Age' : usia user (tahun)
+3. 'Area Income' : rata - rata pendapatan di daerah sekitar user
+4. 'Daily Internet Usage' : rata - rata waktu yang dihabiskan user di internet dalam sehari (menit)
+5. 'Ad Topic Line' : topik/konten dari promo banner
+6. 'City' : kota dimana user mengakses website
+7. 'Male' : apakah user adalah Pria atau bukan
+8. 'Country' : negara dimana user mengakses website
+9. 'Timestamp' : waktu saat user mengklik promo banner atau keluar dari halaman website tanpa mengklik banner
+10. 'Clicked on Ad' : mengindikasikan user mengklik promo banner atau tidak (0 = tidak; 1 = klik).
